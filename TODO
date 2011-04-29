@@ -1,0 +1,4 @@
+- implement full template parsing & PSI building
+- figure out how to use the chameleon tokens / fileviewprovider and set up intergration with HTML parsing & friends
+- implement full routes parsing & PSI building
+- ...

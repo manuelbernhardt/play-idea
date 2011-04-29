@@ -1,0 +1,15 @@
+Play Template Expression
+  ACTION_LINK
+    PsiElement(ACTION_LINK)('@{')
+    CONTROLLER_CLASS
+      PsiElement(IDENTIFIER)('some')
+      PsiElement(DOT)('.')
+      PsiElement(IDENTIFIER)('package')
+      PsiElement(DOT)('.')
+      PsiElement(IDENTIFIER)('Controller')
+    PsiElement(DOT)('.')
+    ACTION_NAME
+      PsiElement(IDENTIFIER)('action')
+    PsiElement(LPAREN)('(')
+    PsiElement(RPAREN)(')')
+    PsiElement(RBRACE)('}')
